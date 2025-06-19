@@ -44,14 +44,19 @@ pip install -r requirements.txt
 jupyter notebook main.ipynb
 ```
 
-📚 References
-Shokri et al. (2017): Membership Inference Attacks
+## 📚 References
+
+```Shokri et al. (2017): Membership Inference Attacks
 
 Zhang et al. (2020): Unlearning & Increased MIA Vulnerability
 
 Guo et al. (2020): Certified Data Removal
 
 Gu et al. (2024): Auditing Privacy Protection
+```
 
-👨‍💻 Author : Yasamin Hosseinzadeh Sani
+## 👨‍💻 Author : Yasamin Hosseinzadeh Sani
+
+```
 This project is part of a master's thesis on privacy-preserving machine learning.
+```
