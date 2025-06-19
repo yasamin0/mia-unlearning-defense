@@ -21,18 +21,19 @@ This project aims to:
 5. Re-evaluate the MIA after unlearning
 6. Propose and implement a defense method to reduce MIA success
 
-## 🗂️ Folder Structure
+## 📁 Folder Structure
 
+```text
 mia-unlearning-defense/
-│
-├── data/ # Datasets (MNIST, auto-downloaded)
-├── models/ # Trained models
-├── experiments/ # Scripts for training, MIA, unlearning
-├── defense/ # Experimental defense implementations
-├── results/ # Output logs, graphs, evaluation
-├── README.md # This file
-├── requirements.txt # Dependencies
-└── main.ipynb # Notebook to run step-by-step
+├── data/                # Datasets (MNIST, auto-downloaded)
+├── models/              # Trained models
+├── experiments/         # Scripts for training, MIA, unlearning
+├── defense/             # Experimental defense implementations
+├── results/             # Output logs, graphs, evaluation
+├── README.md            # This file
+├── requirements.txt     # Dependencies
+└── main.ipynb           # Notebook to run step-by-step
+```
 
 ## 🚀 How to Run
 
